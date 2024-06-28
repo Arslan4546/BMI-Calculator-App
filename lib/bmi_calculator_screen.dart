@@ -51,7 +51,7 @@ class _BmiCalScreenState extends State<BmiCalScreen> {
                     iconData: Icons.height,
                     controller: ftController),
                 uiHelper.customTextFormField(
-                    text: "Enter Your Weight Here(inch)",
+                    text: "Enter Your Height Here(inch)",
                     iconData: Icons.height,
                     controller: inController),
                 const   SizedBox(height: 15,),
